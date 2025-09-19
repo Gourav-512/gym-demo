@@ -86,3 +86,48 @@ yarn start
 ```
 
 ---
+
+## Folder Structure
+
+```
+gym-demo/
+├── public/            # Static assets like images, icons, etc.
+├── src/               # Main source code
+│   ├── components/    # Reusable UI components
+│   ├── pages/         # Application pages (routing)
+│   ├── styles/        # Global and modular CSS/Tailwind
+│   └── utils/         # Helper functions
+├── package.json       # Project metadata & dependencies
+└── README.md          # Project documentation
+```
+
+---
+
+## Tech Stack
+
+* **Framework:** Next.js / React.js
+* **Language:** JavaScript (ES6+)
+* **Styling:** Tailwind CSS / CSS Modules
+* **Package Manager:** npm or yarn
+* **Deployment:** Vercel
+
+---
+
+## Contributing
+
+Contributions are always welcome! 🙌
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -m 'Add feature'`)
+4. Push to your branch (`git push origin feature-name`)
+5. Open a Pull Request 🚀
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.
+Feel free to use, modify, and distribute it with attribution.
+
+---
